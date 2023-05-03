@@ -1,7 +1,5 @@
 # your code goes here!
 
-import ipdb
-
 class Anagram:
     def __init__(self, word = 'test'):
         self.word = word
